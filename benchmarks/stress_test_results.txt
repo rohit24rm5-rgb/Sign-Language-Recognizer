@@ -1,0 +1,8 @@
+Total Requests: 5
+Successful: 4
+Failed: 1
+Total Time: 43.30s
+Throughput: 0.12 req/s
+Min Latency: 4.58s
+Max Latency: 24.63s
+Avg Latency: 17.03s

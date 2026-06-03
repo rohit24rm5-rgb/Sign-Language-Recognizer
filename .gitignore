@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+Sign_Language_Project_Report.docx
+Sign_Language_Project_Report_v2.docx
+Sign_Language_Project_Report_v3.docx
